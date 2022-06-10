@@ -51,10 +51,11 @@ java -cp ".\target\classes" edu.escuelaing.arsw.app.App "ruta del archivo"
 
 
 ```
+### Pruebas
 ![Imágen 1](img/2.png)
 Nota: Hay dos archivos en la carpeta Test para que haga sus pruebas
 
-3. Diagrama de clases
+### Diagrama de clases
    ![Imágen 2](img/1.png)
 
 ## Built con
